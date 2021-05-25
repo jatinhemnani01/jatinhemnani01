@@ -3,7 +3,7 @@
 
 Skills: Svelte, React, Next JS, HTML, CSS, JavaScript, Python
 
-- 🔭 I’m currently working on Lyrics App 
+- 🔭 I’m currently working on Crypto Tracker Extension 
 - 🌱 I’m currently learning Svelte 
 - 💬 Ask me about Svelte, React, JS, TS 
 - 📫 How to reach me: jatinhemnani01@gmail.com 

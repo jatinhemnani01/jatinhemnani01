@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Jatin Hemnani
 #### A passionate frontend developer from India
 
-Skills: Svelte, React, Next JS, HTML, CSS, JavaScript, TypeScript, SQL, Flutter, Node JS
+Skills: Svelte, React, Next JS, HTML, CSS, JavaScript, TypeScript, SQL, React Native, Node JS
 
 - 🔭 I’m currently working on reddit-client
 - 🌱 I’m currently learning Svelte 
